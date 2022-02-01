@@ -10,7 +10,11 @@ index.html ve
 
 görsellerin (görsel) bulunduğu dosyaları barındırıyor.
 
-![](index.PNG)
+![](indexHtml.PNG)
+
+![](aboutUsHtml.PNG)
+
+![](contactHtml.PNG.PNG)
 
 # Installation
 
