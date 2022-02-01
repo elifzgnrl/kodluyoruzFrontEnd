@@ -12,15 +12,15 @@ görsellerin (görsel) bulunduğu dosyaları barındırıyor.
 
 1- Ana Sayfa
 
-![](indexHtml.PNG)
+![](img/GindexHtml.PNG)
 
 2- Hakkımzda
 
-![](aboutUsHtml.PNG)
+![](img/aboutUsHtml.PNG)
 
 3- İletişim
 
-![](contactHtml.PNG)
+![](img/contactHtml.PNG)
 
 # Installation
 
