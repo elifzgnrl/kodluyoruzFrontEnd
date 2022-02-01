@@ -10,9 +10,15 @@ index.html ve
 
 görsellerin (görsel) bulunduğu dosyaları barındırıyor.
 
+1- Ana Sayfa
+
 ![](indexHtml.PNG)
 
+2- Hakkımzda
+
 ![](aboutUsHtml.PNG)
+
+3- İletişim
 
 ![](contactHtml.PNG)
 
