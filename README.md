@@ -14,7 +14,7 @@ görsellerin (görsel) bulunduğu dosyaları barındırıyor.
 
 ![](aboutUsHtml.PNG)
 
-![](contactHtml.PNG.PNG)
+![](contactHtml.PNG)
 
 # Installation
 
