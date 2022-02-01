@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitim içeriğinin
 
 Proje içerik olarak;
 
-REDAME.md
+README.md
 
 index.html ve 
 
@@ -12,15 +12,15 @@ görsellerin (görsel) bulunduğu dosyaları barındırıyor.
 
 1- Ana Sayfa
 
-![](img/GindexHtml.PNG)
+![](img\GindexHtml.PNG)
 
 2- Hakkımzda
 
-![](img/aboutUsHtml.PNG)
+![](img\aboutUsHtml.PNG)
 
 3- İletişim
 
-![](img/contactHtml.PNG)
+![](img\contactHtml.PNG)
 
 # Installation
 
